@@ -1,0 +1,22 @@
+{
+  "name": "pepoipod/kintone-api",
+  "description": "Kintoen API Helper",
+  "keywords": [
+    "kintone",
+    "api"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://github.com/pepoipod/KintoneApi",
+  "authors": [
+    {
+      "name": "pepoipod",
+      "email": "daikinecmouth@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "pepoipod\\KintoneApi": "src/"
+    }
+  }
+}
