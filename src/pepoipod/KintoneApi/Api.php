@@ -11,7 +11,7 @@ namespace pepoipod\KintoneApi;
 
 class Api
 {
-  const API_URL = 'https://otera.cybozu.com/k/v1/record.json';
+  const API_URL = 'https://{スペース名}.cybozu.com/k/v1/record.json';
   const APP_ID = '';
 
   const KINTONE_USER_NAME = '';
